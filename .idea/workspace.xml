@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a3e538-0cf2-426a-9c2b-61a9cb747b14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-40">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -64,6 +63,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -73,6 +73,7 @@
     <option name="width" value="1803" />
     <option name="height" value="952" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -83,12 +84,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="WireFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WireFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Wireframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wireframe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WireFrame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WireFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="Wireframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wireframe" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -314,12 +315,12 @@
       <workItem from="1609987381332" duration="1229000" />
       <workItem from="1613877173358" duration="109000" />
       <workItem from="1613878284287" duration="419000" />
-      <workItem from="1616445825110" duration="827000" />
+      <workItem from="1616445825110" duration="1048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23764000" />
+    <option name="totallyTimeSpent" value="23985000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,7 +335,7 @@
     <frame x="-1917" y="-97" width="1803" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14253265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20102215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -386,8 +387,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-40">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>
