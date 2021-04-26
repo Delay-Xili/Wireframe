@@ -19,11 +19,20 @@
 
 # 2D Wireframe
 
-The wireframe parsing task is firstly proposed by Huang et al. [1]. It proposes the task formulation, a large-scale dataset with wireframe annotations, a baseline method, and a set of evaluation metrics. After that, Zhou et al. [4] and propose an end-to-end solution and significantly improves the performance. Zhang et al. [3] is a counterpart work and refine the annotations of [1]. Meanwhile, Xue et al. [8] is a follow-up work of Xue et al. [2] which holds the new state-of-the-art result. Lin et al. [6] design a hough transform based convolutional operator to treat the line detection task. In order to handle the topology of junction and line, a graph neural network based method LGNN [5] was proposed to resolve the wireframe task. Besides, Huang et al. [7] propose to speed up the line detection. Strictly speaking, line detection is not wireframe parsing as it does not detect junctions of multiple segments.
+The wireframe parsing task is firstly proposed by Huang et al. [1]. It proposes the task formulation, a large-scale 
+dataset with wireframe annotations, a baseline method, and a set of evaluation metrics. After that, Zhou et al. [4] and 
+propose an end-to-end solution and significantly improves the performance. Zhang et al. [3] is a counterpart work and refine 
+the annotations of [1]. Meanwhile, Xue et al. [8] is a follow-up work of Xue et al. [2] which holds the new state-of-the-art result. 
+Lin et al. [6] design a hough transform based convolutional operator to treat the line detection task. 
+In order to handle the topology of junction and line, a graph neural network based method LGNN [5] was proposed to resolve the wireframe task. 
+Besides, Huang et al. [7] propose to speed up the line detection. 
+Strictly speaking, line detection is not wireframe parsing as it does not detect junctions of multiple segments.
 
 <p align="center">
 <img src="img/demo.gif"  width="400">
 </p>
+
+The source video above is from [kujiale](https://b.kujiale.com/) website. 
 
 <a name="papers-2d"></a>
 
