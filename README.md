@@ -40,25 +40,25 @@ The source video above is from [kujiale](https://b.kujiale.com/) website.
 
 ### 2018
 
-- [1] Huang K, Wang Y, Zhou Z, et al. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[code](https://github.com/huangkuns/wireframe)][[paper](https://arxiv.org/abs/2007.07527)]
+- [1] Kun Huang, Yifan Wang, Zihan Zhou, Tianjiao Ding, Shenghua Gao, and Yi Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[code](https://github.com/huangkuns/wireframe)] [[paper](https://arxiv.org/abs/2007.07527)]
 
 ### 2019
 
-- [2] Xue N, Bai S, Wang F, et al. Learning attraction field representation for robust line segment detection. In CVPR, 2019. [[code](https://github.com/cherubicXN/afm_cvpr2019)][[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_Attraction_Field_Representation_for_Robust_Line_Segment_Detection_CVPR_2019_paper.pdf)]
-- [3] Zhang Z, Li Z, Bi N, et al. Ppgnet: Learning point-pair graph for line segment detection. In CVPR, 2019. [[code](https://github.com/svip-lab/PPGNet)][[paper](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf)]
-- [4] Zhou, Yichao and Qi, Haozhi and Ma, Yi. End-to-End Wireframe Parsing. In ICCV, 2019. [[code](https://github.com/zhou13/lcnn)][[paper](https://arxiv.org/abs/1905.03246)]
+- [2] Nan Xue, Song Bai, Fudong Wang, Gui-Song Xia, Tianfu Wu, and Liangpei Zhang. Learning attraction field representation for robust line segment detection. In CVPR, 2019. [[code](https://github.com/cherubicXN/afm_cvpr2019)] [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_Attraction_Field_Representation_for_Robust_Line_Segment_Detection_CVPR_2019_paper.pdf)]
+- [3] Ziheng Zhang*, Zhengxin Li*, Ning Bi, Jia Zheng, Jinlei Wang, Kun Huang, Weixin Luo, Yanyu Xu, and Shenghua Gao. Ppgnet: Learning point-pair graph for line segment detection. In CVPR, 2019. [[code](https://github.com/svip-lab/PPGNet)] [[paper](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf)]
+- [4] Yichao Zhou, Haozhi Qi, and Yi Ma. End-to-End Wireframe Parsing. In ICCV, 2019. [[code](https://github.com/zhou13/lcnn)] [[paper](https://arxiv.org/abs/1905.03246)]
 
 ### 2020
 
-- [5] Quan Meng, Jiakai Zhang, Qiang Hu, Xuming He, and Jingyi Yu. 2020. LGNN: A Context-aware Line Segment Detector. In ACM MM, 2020. [paper](https://arxiv.org/abs/2008.05892)
-- [6] Lin Y, Pintea S L, van Gemert J C. Deep Hough-Transform Line Priors. In ECCV, 2020. [[code](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)][[paper](https://arxiv.org/abs/2007.09493)]
-- [7] Huang S, Qin F, Xiong P, et al. TP-LSD: Tri-Points Based Line Segment Detector. In ECCV, 2020. [[code](https://github.com/Siyuada7/TP-LSD)][[paper](https://arxiv.org/abs/2009.05505)]
-- [8] Xue N, Wu T, Bai S, et al. Holistically-attracted wireframe parsing. In CVPR, 2020. [[code](https://github.com/cherubicXN/hawp)][[paper](https://arxiv.org/pdf/2003.01663.pdf)]
+- [5] Quan Meng, Jiakai Zhang, Qiang Hu, Xuming He, and Jingyi Yu. 2020. LGNN: A Context-aware Line Segment Detector. In ACM MM, 2020. [[paper](https://arxiv.org/abs/2008.05892)]
+- [6] Yancong Lin, and Silvia L. Pintea, and Jan C. van Gemert. Deep Hough-Transform Line Priors. In ECCV, 2020. [[code](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)] [[paper](https://arxiv.org/abs/2007.09493)]
+- [7] Siyu Huang, Fangbo Qin, Pengfei Xiong, Ning Ding, Yijia He, and Xiao Liu. TP-LSD: Tri-Points Based Line Segment Detector. In ECCV, 2020. [[code](https://github.com/Siyuada7/TP-LSD)] [[paper](https://arxiv.org/abs/2009.05505)]
+- [8] Nan Xue, Tianfu Wu, Song Bai, Fudong Wang, Gui-Song Xia, Liangpei Zhang, and Philip H.S. Torr. Holistically-attracted wireframe parsing. In CVPR, 2020. [[code](https://github.com/cherubicXN/hawp)] [[paper](https://arxiv.org/pdf/2003.01663.pdf)]
 
 ### 2021
 
-- [9] Yifan Xu*, Weijian Xu*, et al. Line Segment Detection Using Transformers without Edges. In CVPR, 2021. [paper](https://arxiv.org/abs/2101.01909)
-- [10] Xili Dai, Xiaojun Yuan, et al. Fully Convolutional Line Parsing. arXiv preprint, 2021. [[code](https://github.com/Delay-Xili/F-Clip)][[paper](https://arxiv.org/abs/2104.11207v2)]
+- [9] Yifan Xu*, Weijian Xu*, David Cheung, and Zhuowen Tu. Line Segment Detection Using Transformers without Edges. In CVPR, 2021. [[paper](https://arxiv.org/abs/2101.01909)]
+- [10] Xili Dai, Xiaojun Yuan, Haigang Gong, and Yi Ma. Fully Convolutional Line Parsing. arXiv preprint, 2021. [[code](https://github.com/Delay-Xili/F-Clip)] [[paper](https://arxiv.org/abs/2104.11207v2)]
 
 <a name="data-2d"></a>
 
@@ -93,8 +93,8 @@ So far as we know, there exist two wireframe datasets namely [**ShanghaiTech**](
 
 ## Papers (3D)
 
-- Zhou Y, Qi H, Zhai Y, et al. Learning to reconstruct 3D Manhattan wireframes from a single image. In ICCV, 2019. [[dataset](https://drive.google.com/drive/folders/11OBjTfMSIqFgFeS6c3M1UGZXpozV4S4P)][[code](https://github.com/zhou13/shapeunity)][[paper](https://arxiv.org/abs/1905.07482)][[video](https://www.youtube.com/watch?v=l3sUtddPJPY)]
-- Pautrat R, Lin J T, Larsson V, et al. SOLD2: Self-supervised Occlusion-aware Line Description and Detection. In CVPR, 2021. [[code](https://github.com/cvg/SOLD2)][[paper](https://arxiv.org/abs/2104.03362)]
+- Yichao Zhou, Haozhi Qi, Yuexiang Zhai, Qi Sun, Zhili Chen, Li-Yi Wei, and Yi Ma. Learning to reconstruct 3D Manhattan wireframes from a single image. In ICCV, 2019. [[dataset](https://drive.google.com/drive/folders/11OBjTfMSIqFgFeS6c3M1UGZXpozV4S4P)] [[code](https://github.com/zhou13/shapeunity)] [[paper](https://arxiv.org/abs/1905.07482)] [[video](https://www.youtube.com/watch?v=l3sUtddPJPY)]
+- Rémi Pautrat*, Juan-Ting Lin*, Viktor Larsson, Martin R. Oswald, and Marc Pollefeys. SOLD2: Self-supervised Occlusion-aware Line Description and Detection. In CVPR, 2021. [[code](https://github.com/cvg/SOLD2)] [[paper](https://arxiv.org/abs/2104.03362)]
 
 <a name="data-3d"></a>
 
