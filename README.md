@@ -53,7 +53,7 @@ Strictly speaking, line detection is not wireframe parsing as it does not detect
 ### 2021
 
 - [9] Yifan Xu*, Weijian Xu*, et al. Line Segment Detection Using Transformers without Edges[C] CVPR, 2021. [[code]()][[paper](https://arxiv.org/abs/2101.01909)]
-
+- [10] Xili Dai, Xiaojun Yuan, et al. Fully Convolutional Line Parsing. arxiv 2021. [[code](https://github.com/Delay-Xili/F-Clip)][[paper](https://arxiv.org/abs/2104.11207v2)]
 
 <a name="data-2d"></a>
 ## Datasets (2D)
@@ -70,12 +70,16 @@ It has another relabeled version [**SIST**](https://github.com/svip-lab/PPGNet) 
 
 ### Leader Board
 
-|              |                  | DWP[1]   | AFM[2]   |PPGNET[3] | LCNN[4]  | LGNN[5]  | DHT[6]   | TP-LSD[7]  | HAWP[8]  |  LETR[8]  | 
-| :------:     | :------:         | :------: | :------: | :------: | :------: | :------: | :------: |:----------:|:------:  | :------:  |
-| ShanghaiTech | sAP<sup>10</sup> |   5.1    |  24.4    |   /      | 62.9     |   62.3   |  66.6    |  60.6      | 66.5     |  65.2     |
-|              | AP<sup>H</sup>   |   67.8   |  69.2    |          | 80.3     |    /     |    /     |  84.3      | 84.5     |  84.7     |
-| YorkUrban    | sAP<sup>10</sup> |   2.1    |   9.4    |   /      | 26.4     |    /     |  27.4    |  27.4      | 28.5     |  29.4     |
-|              | AP<sup>H</sup>   |   51.0   |   48.2   |          | 58.5     |    /     |    /     |    /       | 60.6     |  61.2     |
+|              |                  | DWP[1]   | AFM[2]   |PPGNET[3] | LCNN[4]  | LGNN[5]  | DHT[6]   | TP-LSD[7]  | HAWP[8]  |  LETR[9]  |  F-Clip[10]  |
+| :------:     | :------:         | :------: | :------: | :------: | :------: | :------: | :------: |:----------:|:------:  | :------:  |  :------:    |
+| ShanghaiTech | sAP<sup>10</sup> |   5.1    |  24.4    |   /      | 62.9     |   62.3   |  66.6    |  60.6      | 66.5     |  65.2     |  68.3        |
+|              | AP<sup>H</sup>   |   67.8   |  69.2    |          | 80.3     |    /     |    /     |  84.3      | 84.5     |  84.7     |  85.7        |
+| YorkUrban    | sAP<sup>10</sup> |   2.1    |   9.4    |   /      | 26.4     |    /     |  27.4    |  27.4      | 28.5     |  29.4     |  30.8        |
+|              | AP<sup>H</sup>   |   51.0   |   48.2   |          | 58.5     |    /     |    /     |    /       | 60.6     |  61.2     |  65.0        |
+
+
+
+
 
 # 3D Wireframe
 
@@ -89,7 +93,8 @@ It has another relabeled version [**SIST**](https://github.com/svip-lab/PPGNet) 
 <a name="papers-3d"></a>
 ## Papers(3D)
 
-- Zhou Y, Qi H, Zhai Y, et al. Learning to reconstruct 3D Manhattan wireframes from a single image[C]. ICCV, 2019. [[dataset](https://drive.google.com/drive/folders/11OBjTfMSIqFgFeS6c3M1UGZXpozV4S4P)][[code]()][[paper](https://arxiv.org/abs/1905.07482)][[video](https://www.youtube.com/watch?v=l3sUtddPJPY)]
+- Zhou Y, Qi H, Zhai Y, et al. Learning to reconstruct 3D Manhattan wireframes from a single image[C]. ICCV, 2019. [[dataset](https://drive.google.com/drive/folders/11OBjTfMSIqFgFeS6c3M1UGZXpozV4S4P)][[code](https://github.com/zhou13/shapeunity)][[paper](https://arxiv.org/abs/1905.07482)][[video](https://www.youtube.com/watch?v=l3sUtddPJPY)]
+- Pautrat R, Lin J T, Larsson V, et al. SOLD2: Self-supervised Occlusion-aware Line Description and Detection[C]. CVPR, 2021. [[code](https://github.com/cvg/SOLD2)][[paper](https://arxiv.org/abs/2104.03362)]
 
 <a name="data-3d"></a>
 ## Datasets (3D)
