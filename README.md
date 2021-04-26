@@ -40,20 +40,20 @@ The source video above is from [kujiale](https://b.kujiale.com/) website.
 
 ### 2018
 
-- [1] Kun Huang, Yifan Wang, Zihan Zhou, Tianjiao Ding, SHenghua Gao, and Yi Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[code](https://github.com/huangkuns/wireframe)] [[paper](https://arxiv.org/abs/2007.07527)]
+- [1] Kun Huang, Yifan Wang, Zihan Zhou, Tianjiao Ding, Shenghua Gao, and Yi Ma. Learning to parse wireframes in images of man-made environments. In CVPR, 2018. [[code](https://github.com/huangkuns/wireframe)] [[paper](https://arxiv.org/abs/2007.07527)]
 
 ### 2019
 
 - [2] Nan Xue, Song Bai, Fudong Wang, Gui-Song Xia, Tianfu Wu, and Liangpei Zhang. Learning attraction field representation for robust line segment detection. In CVPR, 2019. [[code](https://github.com/cherubicXN/afm_cvpr2019)] [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Learning_Attraction_Field_Representation_for_Robust_Line_Segment_Detection_CVPR_2019_paper.pdf)]
-- [3] Ziheng Zhang*, Zhenxin Li*, Ning Bi, Jia Zheng, Jinlei Wang, Kun Huang, Weixin Luo, Yanyu Xu, and Shenghua Gao. Ppgnet: Learning point-pair graph for line segment detection. In CVPR, 2019. [[code](https://github.com/svip-lab/PPGNet)] [[paper](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf)]
+- [3] Ziheng Zhang*, Zhengxin Li*, Ning Bi, Jia Zheng, Jinlei Wang, Kun Huang, Weixin Luo, Yanyu Xu, and Shenghua Gao. Ppgnet: Learning point-pair graph for line segment detection. In CVPR, 2019. [[code](https://github.com/svip-lab/PPGNet)] [[paper](https://www.aiyoggle.me/publication/ppgnet-cvpr19/ppgnet-cvpr19.pdf)]
 - [4] Yichao Zhou, Haozhi Qi, and Yi Ma. End-to-End Wireframe Parsing. In ICCV, 2019. [[code](https://github.com/zhou13/lcnn)] [[paper](https://arxiv.org/abs/1905.03246)]
 
 ### 2020
 
 - [5] Quan Meng, Jiakai Zhang, Qiang Hu, Xuming He, and Jingyi Yu. 2020. LGNN: A Context-aware Line Segment Detector. In ACM MM, 2020. [[paper](https://arxiv.org/abs/2008.05892)]
-- [6] Yancong Lin, and Silvia Laura Pintea, and Jan C. van Gemert. Deep Hough-Transform Line Priors. In ECCV, 2020. [[code](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)] [[paper](https://arxiv.org/abs/2007.09493)]
-- [7] Siyu Huang, Fangbo Qin, Pengfei Xiong, Ning Ding, Yijia He, Xiao Liu. TP-LSD: Tri-Points Based Line Segment Detector. In ECCV, 2020. [[code](https://github.com/Siyuada7/TP-LSD)] [[paper](https://arxiv.org/abs/2009.05505)]
-- [8] Nan Xue, Tianfu Wu, Song Bai, Fu-Dong Wang, Gui-Song Xia, Liangpei Zhang, and Philip H.S. Torr. Holistically-attracted wireframe parsing. In CVPR, 2020. [[code](https://github.com/cherubicXN/hawp)] [[paper](https://arxiv.org/pdf/2003.01663.pdf)]
+- [6] Yancong Lin, and Silvia L. Pintea, and Jan C. van Gemert. Deep Hough-Transform Line Priors. In ECCV, 2020. [[code](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)] [[paper](https://arxiv.org/abs/2007.09493)]
+- [7] Siyu Huang, Fangbo Qin, Pengfei Xiong, Ning Ding, Yijia He, and Xiao Liu. TP-LSD: Tri-Points Based Line Segment Detector. In ECCV, 2020. [[code](https://github.com/Siyuada7/TP-LSD)] [[paper](https://arxiv.org/abs/2009.05505)]
+- [8] Nan Xue, Tianfu Wu, Song Bai, Fudong Wang, Gui-Song Xia, Liangpei Zhang, and Philip H.S. Torr. Holistically-attracted wireframe parsing. In CVPR, 2020. [[code](https://github.com/cherubicXN/hawp)] [[paper](https://arxiv.org/pdf/2003.01663.pdf)]
 
 ### 2021
 
