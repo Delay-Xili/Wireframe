@@ -52,7 +52,7 @@ Strictly speaking, line detection is not wireframe parsing as it does not detect
 
 ### 2021
 
-- [9] Yifan Xu*, Weijian Xu*, et al. Line Segment Detection Using Transformers without Edges[C] CVPR, 2021. [[code]()][[paper](https://arxiv.org/abs/2101.01909)]
+- [9] Yifan Xu*, Weijian Xu*, et al. Line Segment Detection Using Transformers without Edges[C] CVPR, 2021. [code][[paper](https://arxiv.org/abs/2101.01909)]
 - [10] Xili Dai, Xiaojun Yuan, et al. Fully Convolutional Line Parsing. arxiv 2021. [[code](https://github.com/Delay-Xili/F-Clip)][[paper](https://arxiv.org/abs/2104.11207v2)]
 
 <a name="data-2d"></a>
